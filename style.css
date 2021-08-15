@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-box-bg{
+    background-color: #264653 !important;
+}
+.top-box-title{
+    font-size: 72px;
+}
+
+.top-box-button{
+    background-color: orangered !important;
+    outline: none;
+    color: white;
+    padding: 5px 25px;
+    margin: 5px 10px;
+    font-weight: 600;
+}
+.featurebike-title{
+    font-size: 68px;
+    font-weight: bolder ;
+}
+.question-box-border{
+    border: 2px solid #D5E5FB;
+}
+.question-box-border-top{
+    border-top: 2px solid #D5E5FB;
+}
